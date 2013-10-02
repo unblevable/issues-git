@@ -1,2 +1,0 @@
-defmodule IssuesGit do
-end
